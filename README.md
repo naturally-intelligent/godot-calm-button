@@ -1,7 +1,7 @@
 # godot-calm-button
 ### A Calm Texture Button for Godot 3+
 
-Included is a scene for a widget that inherits TextureRect.  It's 'calmer' than the regular TextureRect.  It may not be applicable for all usage, and it needs some improvement for touch.
+Included is a scene for a widget that inherits TextureRect.  It's 'calmer' than the regular TextureRect.
 
 ![Calm Button Project](https://i.imgur.com/4haHDzR.png)
 
